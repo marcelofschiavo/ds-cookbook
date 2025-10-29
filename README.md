@@ -13,7 +13,7 @@ A partir do entendimento sobre comportamento, **formulo hipóteses e trabalho co
 
 ---
 
-## 📖 Índice (O Arcabouço)
+## 📖 Índice
 
 **Fundação (Nível Júnior):**
 * [01. Coleta e Limpeza (SQL / Pandas)](./01_Coleta_e_Limpeza.ipynb)
